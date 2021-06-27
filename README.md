@@ -7,6 +7,5 @@ It helps to detect three classes
 
 2. Person wearing mask Incorrectly
 
-
 3.Person not wearing mask
 
